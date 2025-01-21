@@ -1,3 +1,4 @@
+## This fork aims to enable NimbusRT on Ubuntu. See branch `st-ubuntu-20-04` for latest changes.
 # NimbusRT
 
 NimbusRT is a ray launching-based tool for radio channel characterization, which utilizes point clouds as the intersection geometry. It computes paths consisting of specular reflections and diffractions between a set of transmitters and receivers.
